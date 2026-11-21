@@ -1,0 +1,6 @@
+timestamp,username,source_ip,host,outcome
+2026-11-20T14:00:00+00:00,alice,192.0.2.10,research-server,failure
+2026-11-20T14:01:00+00:00,bobert,192.0.2.10,research-server,failure
+2026-11-20T14:02:00+00:00,carolie,192.0.2.10,research-server,failure
+2026-11-20T14:03:00+00:00,daniel,192.0.2.10,research-server,failure
+2026-11-20T14:04:00+00:00,edward,192.0.2.10,research-server,failure
